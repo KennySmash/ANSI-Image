@@ -2,6 +2,9 @@
 
 A custom web component that converts images into colored ASCII art (ANSI art) using the Canvas API. Perfect for creating retro terminal-style image displays.
 
+<img width="469" height="372" alt="image" src="https://github.com/user-attachments/assets/2775c372-1e33-4935-b5a0-57a07337bc97" />
+
+
 ## Overview
 
 The `ansi-image` component takes an image source and converts it to colored ASCII art using character-based rendering. It supports multiple color modes, character sets, and automatic scaling to fit containers.
